@@ -1,3 +1,11 @@
+:root{
+  --color_background_primary: #F1F1F1;
+  --color_background_secondary: #fff
+  --color_text_primary: #B9B9B9;
+  --color_text_secondary: #515151;
+  --color_text_terciary: #000
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -7,6 +15,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+html body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+button{
+  border: none;
+  background: none;
+  cursor: pointer;
 }

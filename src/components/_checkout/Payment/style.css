@@ -1,0 +1,42 @@
+.payment{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 15px;
+}
+
+
+.payment__sections{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.payment__containerButton{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 15px 0px 0;
+
+}
+
+.payment__button{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    text-transform: capitalize;
+    background: #9222DC;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+
+.payment__discount{
+    color: #9222DC;
+}
+
+.payment__subtotal{
+    font-weight: bold;
+}

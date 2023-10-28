@@ -1,0 +1,30 @@
+.checkoutPayment{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    min-height: 340px;
+    background-color: white;
+    border: 1px solid  #B9B9B9;
+    border-radius: 5px ;
+    padding: 10px;
+}
+
+.checkoutPayment__title{
+     font-size: 1.2em;
+     padding: 10px 0;
+     text-transform: capitalize;
+}
+.checkoutPayment__containerInline{
+    display: flex;
+}
+
+.checkoutPayment__containerInline > span{
+    width: 100%;
+}
+
+
+.checkoutPayment__inputCodeCVV{
+    border: 1px solid #DE1616;
+    background: red;
+}

@@ -1,0 +1,21 @@
+.cardConfirmation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #b9b9b9;
+    border-radius: 5px;
+    gap: 4px
+}
+
+.cardConfirmation > p {
+    color: #515151;
+}
+
+
+.cardConfirmation__message{
+    text-transform: capitalize;
+
+}

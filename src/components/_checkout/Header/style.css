@@ -1,0 +1,26 @@
+.headerCheckout{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding: 0 10%;
+    background-color: #fff;
+}
+
+.headerCheckout__container{
+    width: 90%;
+}
+
+.headerCheckout__button{
+    flex: 1;
+    border-bottom: 1px solid black;
+    padding: 12px 7px;
+    text-transform: capitalize;    
+    color: 	#B9B9B9
+}
+
+.headerCheckout__button--selected{
+    border-bottom: 7px solid black;
+    color: black;
+    
+}

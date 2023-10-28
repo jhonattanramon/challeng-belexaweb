@@ -1,0 +1,34 @@
+ [
+      {
+        "name": "Batom Matte",
+        "image": "https://d531mnmtf91fa.cloudfront.net/Custom/Content/Products/10/10/1010147_batom-matte-ovo-vivai-10250_l4_637387008269312754.jpg",
+        "description": "Batom de longa duração com acabamento matte.",
+        "price": 25.00,
+        "sale": false
+      },
+      {
+        "name": "Creme Hidratante Facial",
+        "image": "https://images.tcdn.com.br/img/img_prod/1021006/creme_hidratante_facial_menela_80g_1807_1_2ed6d5c20c129270b9d99002f807f873.jpg",
+        "description": "Creme hidratante para pele seca.",
+        "price": 35.00,
+        "sale": true,
+        "sale_price": 29.99
+      },
+      {
+        "name": "Pincéis de Maquiagem",
+        "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/431925-500-500/pincel-de-maquiagem-para-iluminador-oceane-shimmer-brush-ocn6--3-.jpg?v=637563552798430000",
+        "description": "Conjunto de pincéis profissionais para maquiagem.",
+        "price": 50.00,
+        "sale": false
+      },
+      {
+        "name": "Perfume Floral",
+        "image": "https://www.ifragrancia.com/imagem/produtos/e/coach-floral-perfume-feminino-30ml-p-3214-1.jpg",
+        "description": "Fragrância floral com notas de jasmim e rosas.",
+        "price": 65.00,
+        "sale": true,
+        "sale_price": 49.99
+      }
+    ]
+  
+  

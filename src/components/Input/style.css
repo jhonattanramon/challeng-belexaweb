@@ -1,0 +1,38 @@
+.input__label{
+    font-size: 1.0.6em;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding:  5px 0;
+    color: #515151;
+}
+
+.input__input{
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid #B9B9B9;
+    border-radius: 5px;
+    padding: 15px 5px;
+}
+
+.input__input:invalid{
+    border: 1px solid #DE1616;
+
+}
+
+.input__input:focus{
+    border: 1px solid #B9B9B9;
+}
+
+.input__input--error {
+    border: 1px solid #DE1616;
+
+}
+
+.input__message{
+    font-size: 0.8em;
+
+}
+
+.input__message--error{
+    color: #DE1616
+}

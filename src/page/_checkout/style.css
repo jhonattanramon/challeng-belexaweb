@@ -1,0 +1,19 @@
+.pageCheckout{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.pageCheckout__section{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: 200px;
+}
+.pageCheckout__sectionMid{
+    display: flex;
+    flex:1;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+
